@@ -58,8 +58,8 @@
                     freq[num] = 1;
             }
 
-            foreach (var kv in freq)
-                Console.WriteLine($"Element {kv.Key} occurs {kv.Value} times.");
+            foreach (var k in freq)
+                Console.WriteLine($"Element {k.Key} occurs {k.Value} times.");
             #endregion
 
             #region Q5
@@ -100,7 +100,7 @@
             {
                 bool isCounted = false;
 
-                // Check if already counted
+               
                 for (int k = 0; k < i; k++)
                 {
                     if (nums[i] == nums[k])
@@ -145,7 +145,7 @@
                 {
                     Console.Write($"Element [{i},{j}]: ");
                     arr1[i, j] = int.Parse(Console.ReadLine()!);
-                    arr2[i, j] = arr1[i, j]; // copy
+                    arr2[i, j] = arr1[i, j];
                 }
             }
 
