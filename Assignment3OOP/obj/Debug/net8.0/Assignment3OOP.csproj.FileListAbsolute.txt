@@ -1,0 +1,15 @@
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\bin\Debug\net8.0\Assignment3OOP.exe
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\bin\Debug\net8.0\Assignment3OOP.deps.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\bin\Debug\net8.0\Assignment3OOP.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\bin\Debug\net8.0\Assignment3OOP.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\bin\Debug\net8.0\Assignment3OOP.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.sourcelink.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\refint\Assignment3OOP.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\Assignment3OOP.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3OOP\obj\Debug\net8.0\ref\Assignment3OOP.dll
