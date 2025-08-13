@@ -1,0 +1,15 @@
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\bin\Debug\net8.0\Assignment3advanced.exe
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\bin\Debug\net8.0\Assignment3advanced.deps.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\bin\Debug\net8.0\Assignment3advanced.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\bin\Debug\net8.0\Assignment3advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\bin\Debug\net8.0\Assignment3advanced.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.sourcelink.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\refint\Assignment3advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\Assignment3advanced.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment3advanced\obj\Debug\net8.0\ref\Assignment3advanced.dll
