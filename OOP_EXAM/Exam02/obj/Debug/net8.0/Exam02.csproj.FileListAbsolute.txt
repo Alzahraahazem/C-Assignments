@@ -1,0 +1,14 @@
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\bin\Debug\net8.0\Exam02.exe
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\bin\Debug\net8.0\Exam02.deps.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\bin\Debug\net8.0\Exam02.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\bin\Debug\net8.0\Exam02.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\bin\Debug\net8.0\Exam02.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\refint\Exam02.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\Exam02.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\OOP_EXAM\Exam02\obj\Debug\net8.0\ref\Exam02.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|c:\\users\\ascom\\desktop\\asp.net content\\c#\\assiments\\oop_exam\\exam02\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3621D9-905D-4D9E-958C-77B8AB3B836D}|Exam02\\Exam02.csproj|solutionrelative:exam02\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Program.cs",
+              "RelativeDocumentMoniker": "Exam02\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Program.cs",
+              "RelativeToolTip": "Exam02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:21:22.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "Exam02\\PracticalExam.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\PracticalExam.cs",
+              "RelativeToolTip": "Exam02\\PracticalExam.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:04:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Question.cs",
+              "RelativeDocumentMoniker": "Exam02\\Question.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Question.cs",
+              "RelativeToolTip": "Exam02\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:42:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Answers.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Answers.cs",
+              "RelativeDocumentMoniker": "Exam02\\Answers.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Answers.cs",
+              "RelativeToolTip": "Exam02\\Answers.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:45:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MCQQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\MCQQuestion.cs",
+              "RelativeDocumentMoniker": "Exam02\\MCQQuestion.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\MCQQuestion.cs",
+              "RelativeToolTip": "Exam02\\MCQQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:34:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Exam02\\TrueFalseQuestion.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "Exam02\\TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:01:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam02\\Exam.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Exam.cs",
+              "RelativeToolTip": "Exam02\\Exam.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:39:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Exam02\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\FinalExam.cs",
+              "RelativeToolTip": "Exam02\\FinalExam.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:48:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Subject.cs",
+              "RelativeDocumentMoniker": "Exam02\\Subject.cs",
+              "ToolTip": "C:\\Users\\ascom\\Desktop\\Asp.net content\\C#\\Assiments\\OOP_EXAM\\Exam02\\Subject.cs",
+              "RelativeToolTip": "Exam02\\Subject.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wCYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:43:42.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
