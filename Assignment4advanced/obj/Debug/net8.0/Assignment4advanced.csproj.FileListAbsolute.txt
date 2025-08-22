@@ -1,0 +1,15 @@
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\bin\Debug\net8.0\Assignment4advanced.exe
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\bin\Debug\net8.0\Assignment4advanced.deps.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\bin\Debug\net8.0\Assignment4advanced.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\bin\Debug\net8.0\Assignment4advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\bin\Debug\net8.0\Assignment4advanced.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.sourcelink.json
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\refint\Assignment4advanced.dll
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.pdb
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\Assignment4advanced.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\C#\Assiments\AssimentsSolution\Assignment4advanced\obj\Debug\net8.0\ref\Assignment4advanced.dll
